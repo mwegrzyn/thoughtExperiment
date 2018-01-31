@@ -1,0 +1,603 @@
+,n
+44,7
+45,7
+47,7
+access,7
+accumbens,2
+acoustic,3
+action,5
+action observation,5
+actions,5
+active,1
+addiction,2
+affect,4
+affective,4
+allele,4
+amygdala,4
+amygdala anterior,4
+amygdala hippocampus,4
+amygdala insula,4
+amygdala response,4
+amygdala responses,4
+anger,4
+angry,4
+angular,0
+angular gyrus,0
+animal,2
+anterior intraparietal,5
+anterior medial,0
+anticipation,2
+anxiety,4
+anxiety disorders,4
+arithmetic,5
+arm,1
+arousal,4
+attention,5
+attention network,5
+attentional,5
+audio,3
+audiovisual,3
+auditory,3
+auditory cortex,3
+auditory cortices,3
+auditory stimuli,3
+auditory visual,3
+autobiographical,0
+autobiographical memory,0
+aversive,4
+avoidance,2
+away,5
+ba,7
+ba 44,7
+basal,2
+basal ganglia,2
+behavior,2
+behaviors,2
+belief,0
+beliefs,0
+bilinguals,7
+broca,7
+calculation,5
+categories,6
+category,6
+caudal,1
+caudate,2
+caudate nucleus,2
+cerebellum,1
+character,6
+characters,6
+chinese,6
+choices,2
+circuitry,2
+cognitive task,0
+coherent,0
+compatible,5
+component,0
+component ica,0
+comprehension,7
+conceptual,7
+concrete,7
+conditioned,4
+conditioning,4
+conductance,4
+conflicting,7
+connectivity,0
+connectivity amygdala,4
+connectivity networks,0
+construction,0
+contralateral,1
+contralateral primary,1
+coordination,1
+cortex amygdala,4
+cortex m1,1
+cortex mpfc,0
+cortex pcc,0
+cortex posterior,0
+cortex ppc,5
+cortex precuneus,0
+cortex supplementary,1
+cortex vmpfc,0
+cortical motor,1
+deactivation,0
+decision,2
+decision making,2
+decision task,7
+decisions,2
+default,0
+default mode,0
+default network,0
+delay,2
+demands,7
+direction,5
+disgust,4
+disorders,4
+dmn,0
+dominant,1
+dopamine,2
+dopaminergic,2
+dorsal attention,0
+dorsal premotor,1
+dorsal striatum,2
+dorsomedial,0
+dorsomedial prefrontal,0
+economic,2
+electrical,1
+emotion,4
+emotion regulation,4
+emotional,4
+emotional faces,4
+emotional information,4
+emotional responses,4
+emotional stimuli,4
+emotional valence,4
+emotionally,4
+emotions,4
+english,7
+episodic,0
+episodic memory,0
+executed,1
+execution,1
+expression,4
+expressions,4
+extension,1
+extinction,4
+eye,5
+eye field,5
+eye fields,5
+eye movements,5
+face,6
+face ffa,6
+face recognition,6
+faces,6
+facial,4
+facial expressions,4
+familiar,6
+fear,4
+fearful,4
+fearful faces,4
+feedback,2
+female,4
+ffa,6
+fields,5
+finger,1
+finger movements,1
+finger tapping,1
+fixation,5
+fluency,7
+foot,1
+force,1
+form,6
+frontal,7
+frontal eye,5
+frontal gyrus,7
+frontal parietal,5
+fronto,5
+fronto parietal,5
+fronto temporal,7
+frontoparietal,5
+frontoparietal network,5
+functional connectivity,0
+functional networks,0
+fusiform,6
+fusiform face,6
+fusiform gyri,6
+fusiform gyrus,6
+gain,2
+gains,2
+gambling,2
+game,2
+ganglia,2
+gaze,5
+german,7
+gestures,5
+grasping,5
+guided,5
+gyrus,7
+gyrus ba,7
+gyrus ifg,7
+gyrus stg,3
+hand,1
+hand movements,1
+handed,1
+hands,1
+happy,4
+happy faces,4
+hc,4
+heard,3
+hearing,3
+heat,1
+heightened,4
+heschl,3
+heschl gyrus,3
+hippocampus,4
+hypothalamus,4
+hz,1
+ica,0
+identity,6
+ifg,7
+imagery,1
+incentive,2
+incentive delay,2
+independent component,0
+index,1
+index finger,1
+inferior,7
+inferior frontal,7
+inferior occipital,6
+inferior parietal,5
+inferior prefrontal,7
+inferior temporal,6
+integration,3
+intentions,0
+interhemispheric,1
+intraparietal,5
+intraparietal sulcus,5
+intrinsic functional,0
+ips,5
+ipsilateral,1
+judgment,7
+judgment task,7
+junction,0
+language,7
+language comprehension,7
+language network,7
+languages,7
+large scale,0
+lateral occipital,6
+lateral parietal,0
+learning,2
+letter,6
+letters,6
+lexical,7
+lexical decision,7
+limb,1
+limbic,4
+linguistic,7
+listened,3
+listeners,3
+listening,3
+load,5
+lobule,5
+lobules,5
+location,5
+locations,5
+loss,2
+losses,2
+m1,1
+magnetic stimulation,1
+maintenance,5
+making,2
+masked,4
+matching,6
+meaning,7
+medial,0
+medial prefrontal,0
+memories,0
+memory load,5
+memory retrieval,0
+memory wm,5
+mental,0
+mental state,0
+mental states,0
+mentalizing,0
+mesolimbic,2
+midbrain,2
+middle,7
+middle temporal,7
+midline,0
+mind,0
+mind tom,0
+mirror,5
+modality,3
+mode,0
+mode network,0
+monetary,2
+monetary reward,2
+money,2
+moral,0
+motion,5
+motivation,2
+motivational,2
+motor,1
+motor control,1
+motor cortex,1
+motor imagery,1
+motor network,1
+motor performance,1
+motor premotor,1
+motor sma,1
+motor task,1
+movement,1
+movements,1
+moving,5
+mpfc,0
+mt,5
+multisensory,3
+muscle,1
+music,3
+musical,3
+naming,7
+native,7
+negative,4
+negative neutral,4
+nerve,1
+nervous,1
+network,0
+network connectivity,0
+network dmn,0
+networks,0
+neutral,4
+neutral faces,4
+neutral pictures,4
+neutral stimuli,4
+noise,3
+noun,7
+nouns,7
+nucleus,2
+nucleus accumbens,2
+numbers,5
+numerical,5
+object,6
+objects,6
+observation,5
+observer,5
+occipito,6
+occipito temporal,6
+occipitotemporal,6
+opercularis,7
+options,2
+orbitofrontal,2
+orbitofrontal cortex,2
+orienting,5
+orthographic,7
+outcome,2
+outcomes,2
+output,1
+paced,1
+pain,1
+painful,1
+pairs,7
+parietal,5
+parietal cortex,5
+parietal frontal,5
+parietal junction,0
+parietal lobule,5
+parietal lobules,5
+parietal network,5
+parieto,5
+pars,7
+pars opercularis,7
+passive viewing,4
+past,0
+pcc,0
+people,0
+perception,3
+person,0
+personal,0
+phonetic,3
+phonological,7
+pictures,4
+pitch,3
+planning,5
+planum,3
+planum temporale,3
+pleasant,4
+positive negative,4
+postcentral,1
+posterior cingulate,0
+posterior inferior,7
+posterior middle,7
+posterior parietal,5
+posterior superior,3
+posterior temporal,7
+ppc,5
+precentral,1
+precuneus,0
+precuneus posterior,0
+predicting,2
+prediction,2
+prediction error,2
+preferences,2
+premotor,1
+premotor cortex,1
+premotor cortices,1
+preparation,5
+preparatory,5
+primary,1
+primary auditory,3
+primary motor,1
+primary secondary,1
+primary sensorimotor,1
+primary somatosensory,1
+production,3
+pseudowords,7
+punishment,2
+putamen,1
+ratings,4
+reactivity,4
+read,7
+readers,7
+reading,7
+recognition,6
+recollection,0
+referential,0
+regulation,4
+rehabilitation,1
+reinforcement,2
+remembering,0
+reorganization,1
+repetition,6
+representations,7
+resources,5
+responses,4
+rest,0
+resting,0
+resting state,0
+retrieval,0
+retrieved,0
+retrosplenial,0
+retrosplenial cortex,0
+reward,2
+reward anticipation,2
+rewarding,2
+rewards,2
+risk,2
+risky,2
+rotation,5
+s1,1
+saccade,5
+saccades,5
+sad,4
+salient,4
+scrambled,6
+secondary,1
+secondary somatosensory,1
+seeking,2
+selective attention,5
+selectivity,6
+self,0
+self referential,0
+self reported,2
+semantic,7
+semantic information,7
+semantic memory,0
+semantically,7
+semantics,7
+sensitivity,2
+sensorimotor,1
+sensorimotor cortex,1
+sensory,3
+sensory motor,1
+sentence,7
+sentence comprehension,7
+sentences,7
+sequential,1
+serotonin,4
+sexual,4
+shifts,5
+si,1
+sign,6
+sii,1
+silent,3
+simple,1
+skin,4
+skin conductance,4
+sma,1
+social,0
+social cognition,0
+social cognitive,0
+somatosensory,1
+somatosensory cortex,1
+somatosensory cortices,1
+sound,3
+sounds,3
+sparse,3
+spatial,5
+spatial attention,5
+spatial information,5
+speaker,3
+speakers,7
+speaking,3
+spectral,3
+speech,3
+speech perception,3
+speech production,3
+speech sounds,3
+spinal,1
+spl,5
+spoken,3
+state,0
+state networks,0
+states,0
+stg,3
+stimulated,1
+stimulation,1
+stimulation tms,1
+stimuli,4
+striatal,2
+striatum,2
+stroke,1
+sts,3
+substantia,2
+subtraction,5
+sulcus,5
+sulcus ips,5
+sulcus sts,3
+superior,3
+superior inferior,5
+superior parietal,5
+superior temporal,3
+supplementary,1
+supplementary motor,1
+syntactic,7
+tactile,1
+taking,2
+tapping,1
+target,5
+targets,5
+task,5
+task positive,0
+tasks,5
+temporal,3
+temporal cortex,7
+temporal gyrus,3
+temporal sulcus,3
+temporale,3
+temporo,0
+temporo parietal,0
+temporoparietal,0
+temporoparietal junction,0
+theory,0
+theory mind,0
+thinking,0
+thoughts,0
+threat,4
+threatening,4
+tms,1
+tom,0
+tone,3
+tones,3
+touch,1
+tpj,0
+transcranial,1
+transcranial magnetic,1
+transporter,4
+unfamiliar,6
+unpleasant,4
+v5,6
+valence,4
+value,2
+ventral,2
+ventral premotor,1
+ventral striatum,2
+ventral visual,6
+ventromedial,2
+ventromedial prefrontal,2
+verb,7
+verbal,7
+verbs,7
+viewing,6
+vision,5
+visual,6
+visual auditory,3
+visual motion,6
+visual spatial,5
+visual word,6
+visually,5
+visually presented,6
+visuo,5
+visuomotor,5
+visuospatial,5
+vmpfc,0
+vocal,3
+voice,3
+voluntary,1
+wm,5
+wm task,5
+word,7
+word form,6
+word recognition,6
+words,7
+working,5
+working memory,5
+written,7

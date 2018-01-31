@@ -1,0 +1,9 @@
+x
+venv
+data/*.nii
+data/*.nii.gz
+notebooks/.*
+**.nii.gz
+nsfigs/*.png
+surfFigs/*.png
+arrays/ns_4mm_database.csv
