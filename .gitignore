@@ -7,3 +7,5 @@ notebooks/.*
 nsfigs/*.png
 surfFigs/*.png
 arrays/ns_4mm_database.csv
+nsMaps
+nsData
