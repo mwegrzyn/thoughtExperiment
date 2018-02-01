@@ -17,7 +17,7 @@ S'reward'
 p8
 sS'5'
 p9
-S'task'
+S'spatial'
 p10
 sS'4'
 p11
