@@ -6,9 +6,9 @@ faces,politicians
 motor,climbing
 rest,rest
 spatial,basement
-faces,lectureres
+faces,lecturers
 language,clothing
-motor,huerdlerace
+motor,hurdlerace
 faces,teachers
 rest,rest
 spatial,promenade
@@ -22,6 +22,6 @@ motor,ropeskipping
 rest,rest
 faces,friends
 language,colors
-spatial,univesity
+spatial,university
 motor,juggling
 
