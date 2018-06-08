@@ -3,14 +3,12 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ms_thoughtExperiment.aux
 The style file: apalike.bst
 Database file #1: myCitations.bib
-Warning--I didn't find a database entry for "Laumann_201"
-Warning--I didn't find a database entry for "Woermann_200"
 Warning--empty booktitle in Hilborn_1997
 Warning--can't use both volume and number fields in Hilborn_1997
 Warning--empty booktitle in Liberman_2015
 You've used 46 entries,
             1935 wiz_defined-function locations,
-            802 strings with 13553 characters,
+            798 strings with 13507 characters,
 and the built_in function-call counts, 22152 in all, are:
 = -- 2113
 > -- 1217
@@ -49,4 +47,4 @@ warning$ -- 3
 while$ -- 174
 width$ -- 0
 write$ -- 600
-(There were 5 warnings)
+(There were 3 warnings)

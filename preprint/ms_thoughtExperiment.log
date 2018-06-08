@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.4)  7 JUN 2018 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.4)  8 JUN 2018 08:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,29 +744,29 @@ Package hyperref Info: Option `bookmarksopen' set `false' on input line 64.
 (./ms_thoughtExperiment.aux)
 \openout1 = `ms_thoughtExperiment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 114.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 115.
+(Font)              scaled to size 9.49997pt on input line 114.
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring ON on input line 115.
+Package hyperref Info: Link coloring ON on input line 114.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -776,9 +776,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 115.
-LaTeX Info: Redefining \pageref on input line 115.
-LaTeX Info: Redefining \nameref on input line 115.
+LaTeX Info: Redefining \ref on input line 114.
+LaTeX Info: Redefining \pageref on input line 114.
+LaTeX Info: Redefining \nameref on input line 114.
 
 (./ms_thoughtExperiment.out) (./ms_thoughtExperiment.out)
 \@outlinefile=\write3
@@ -829,8 +829,8 @@ e
 * \textheight=666.9326pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-44.2513pt
-* \headheight=11.0pt
+* \topmargin=-175.51508pt
+* \headheight=142.26378pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
@@ -855,8 +855,8 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 115.
-LaTeX Info: Redefining \microtypecontext on input line 115.
+(lastpage)             ! on input line 114.
+LaTeX Info: Redefining \microtypecontext on input line 114.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -871,32 +871,25 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 120.
+(Font)              scaled to size 8.54997pt on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 120.
-<images/AlfredRoller.png, id=52, 72.27pt x 114.30705pt>
-File: images/AlfredRoller.png Graphic file (type png)
-
-<use images/AlfredRoller.png>
-Package pdftex.def Info: images/AlfredRoller.png used on input line 120.
-(pdftex.def)             Requested size: 80.3003pt x 127.01488pt.
+(Font)              scaled to size 8.54997pt on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 120.
+(Font)              scaled to size 9.49997pt on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <26> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 24.69992pt on input line 120.
+(Font)              scaled to size 24.69992pt on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 120.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 12
-0.
-
+(Font)              scaled to size 11.39996pt on input line 119.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
+9.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -904,20 +897,20 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 12
-0.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 12
-0.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 12
-0.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -928,7 +921,7 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 120
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 119
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -938,57 +931,53 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 120.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 119.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 120.
+(Font)              scaled to size 7.59998pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 120.
+(Font)              scaled to size 5.69998pt on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 120.
+(Font)              scaled to size 7.59998pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 120--120
+Overfull \hbox (6.0pt too wide) in paragraph at lines 119--119
 [][][][] 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 126.
+(Font)              scaled to size 11.39996pt on input line 125.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 127.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 128.
+(Font)              scaled to size 9.49997pt on input line 127.
 
-Package natbib Warning: Citation `Laumann_201' on page 1 undefined on input lin
-e 129.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1112) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -996,267 +985,179 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./images/AlfredRoller.png>]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 146.
+(Font)              scaled to size 6.64998pt on input line 145.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 150.
+(Font)              scaled to size 6.64998pt on input line 149.
 
-Underfull \hbox (badness 1275) in paragraph at lines 190--190
+Underfull \hbox (badness 1275) in paragraph at lines 189--189
 []|\T1/phv/m/n/7 animals, tools, cities, coun-
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 190--190
+Underfull \hbox (badness 3460) in paragraph at lines 189--189
 \T1/phv/m/n/7 hur-dle race, archery, rope
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 190--190
+Underfull \hbox (badness 5985) in paragraph at lines 189--189
 []|\T1/phv/m/n/7 city square, mar-ket, tram
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 190--190
+Underfull \hbox (badness 7397) in paragraph at lines 189--189
 \T1/phv/m/n/7 church, base-ment, prom-e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 []|[][]\T1/phv/m/n/7 O'Craven and Kan-wisher[][]
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 190--190
+Underfull \hbox (badness 2894) in paragraph at lines 189--189
 []|\T1/phv/m/n/7 precueus, me-dial pre-frontal
  []
 
-<images/hoffmann_vs.png, id=181, 394.47375pt x 136.51pt>
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 199.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [2 <./images/hoffmann_vs.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 212.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [3]
-<./figs/fig1_nsBallSparse.png, id=239, 495.0495pt x 468.5505pt>
+[2] [3] <./figs/fig1_nsBallSparse.png, id=237, 495.0495pt x 468.5505pt>
 File: ./figs/fig1_nsBallSparse.png Graphic file (type png)
 
 <use ./figs/fig1_nsBallSparse.png>
-Package pdftex.def Info: ./figs/fig1_nsBallSparse.png used on input line 226.
+Package pdftex.def Info: ./figs/fig1_nsBallSparse.png used on input line 225.
 (pdftex.def)             Requested size: 500.484pt x 473.70415pt.
 
-<./figs/fig2_tMapTrainBrains.png, id=241, 495.0495pt x 504.9264pt>
+<./figs/fig2_tMapTrainBrains.png, id=240, 495.0495pt x 504.9264pt>
 File: ./figs/fig2_tMapTrainBrains.png Graphic file (type png)
 
 <use ./figs/fig2_tMapTrainBrains.png>
-Package pdftex.def Info: ./figs/fig2_tMapTrainBrains.png used on input line 246
+Package pdftex.def Info: ./figs/fig2_tMapTrainBrains.png used on input line 245
 .
 (pdftex.def)             Requested size: 500.484pt x 510.48015pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.02997pt on input line 255.
-
-Underfull \vbox (badness 7081) has occurred while \output is active []
-
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 256.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [4]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 256.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [5 <./figs/fig1_nsBallSparse.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 256.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [6 <./figs/fig2_tMapTrainBrains.png>] <./figs/fig3_featureSelection.png, id=26
-8, 241.8636pt x 203.5605pt>
+(Font)              scaled to size 7.02997pt on input line 254.
+ [4] [5 <./figs/fig1_nsBallSparse.png>]
+[6 <./figs/fig2_tMapTrainBrains.png>]
+<./figs/fig3_featureSelection.png, id=267, 241.8636pt x 203.5605pt>
 File: ./figs/fig3_featureSelection.png Graphic file (type png)
 
 <use ./figs/fig3_featureSelection.png>
 Package pdftex.def Info: ./figs/fig3_featureSelection.png used on input line 26
-1.
+0.
 (pdftex.def)             Requested size: 242.41745pt x 204.029pt.
 
-<./figs/fig4_trainHeat.png, id=270, 780.7569pt x 912.7701pt>
+<./figs/fig4_trainHeat.png, id=269, 780.7569pt x 912.7701pt>
 File: ./figs/fig4_trainHeat.png Graphic file (type png)
 
 <use ./figs/fig4_trainHeat.png>
-Package pdftex.def Info: ./figs/fig4_trainHeat.png used on input line 274.
+Package pdftex.def Info: ./figs/fig4_trainHeat.png used on input line 273.
 (pdftex.def)             Requested size: 500.484pt x 585.10403pt.
 
-<./figs/fig5_nsSpacesTrain.png, id=273, 495.0495pt x 536.0025pt>
+<./figs/fig5_nsSpacesTrain.png, id=272, 495.0495pt x 536.0025pt>
 File: ./figs/fig5_nsSpacesTrain.png Graphic file (type png)
 
 <use ./figs/fig5_nsSpacesTrain.png>
-Package pdftex.def Info: ./figs/fig5_nsSpacesTrain.png used on input line 288.
+Package pdftex.def Info: ./figs/fig5_nsSpacesTrain.png used on input line 287.
 (pdftex.def)             Requested size: 500.484pt x 541.89804pt.
 
-<./figs/fig6_blockTestBrains.png, id=276, 495.0495pt x 455.5419pt>
+<./figs/fig6_blockTestBrains.png, id=275, 495.0495pt x 455.5419pt>
 File: ./figs/fig6_blockTestBrains.png Graphic file (type png)
 
 <use ./figs/fig6_blockTestBrains.png>
-Package pdftex.def Info: ./figs/fig6_blockTestBrains.png used on input line 306
+Package pdftex.def Info: ./figs/fig6_blockTestBrains.png used on input line 305
 .
 (pdftex.def)             Requested size: 500.484pt x 460.55244pt.
 
-<./figs/fig7_testMeanHeat.png, id=280, 495.0495pt x 298.2342pt>
+<./figs/fig7_testMeanHeat.png, id=279, 495.0495pt x 298.2342pt>
 File: ./figs/fig7_testMeanHeat.png Graphic file (type png)
 
 <use ./figs/fig7_testMeanHeat.png>
-Package pdftex.def Info: ./figs/fig7_testMeanHeat.png used on input line 322.
+Package pdftex.def Info: ./figs/fig7_testMeanHeat.png used on input line 321.
 (pdftex.def)             Requested size: 500.484pt x 301.51451pt.
 
-<./figs/fig8_blockWiseHeat.png, id=282, 867.9627pt x 480.1137pt>
+<./figs/fig8_blockWiseHeat.png, id=281, 867.9627pt x 480.1137pt>
 File: ./figs/fig8_blockWiseHeat.png Graphic file (type png)
 
 <use ./figs/fig8_blockWiseHeat.png>
-Package pdftex.def Info: ./figs/fig8_blockWiseHeat.png used on input line 335.
+Package pdftex.def Info: ./figs/fig8_blockWiseHeat.png used on input line 334.
 (pdftex.def)             Requested size: 500.484pt x 276.8471pt.
 
-<./figs/fig9_nsSpacesTestMs.png, id=284, 495.0495pt x 361.1091pt>
+<./figs/fig9_nsSpacesTestMs.png, id=283, 495.0495pt x 361.1091pt>
 File: ./figs/fig9_nsSpacesTestMs.png Graphic file (type png)
 
 <use ./figs/fig9_nsSpacesTestMs.png>
-Package pdftex.def Info: ./figs/fig9_nsSpacesTestMs.png used on input line 350.
+Package pdftex.def Info: ./figs/fig9_nsSpacesTestMs.png used on input line 349.
 
 (pdftex.def)             Requested size: 500.484pt x 365.08098pt.
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
  [7 <./figs/fig3_featureSelection.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [8 <./figs/fig4_trainHeat.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [9 <./figs/fig5_nsSpacesTrain.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [10 <./figs/fig6_blockTestBrains.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [11 <./figs/fig7_testMeanHeat.png> <./figs/fig8_blockWiseHeat.png>]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 360.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [12 <./figs/fig9_nsSpacesTestMs.png>] <./figs/fig10_secretBrains.png, id=342, 
-495.0495pt x 400.6167pt>
+[8 <./figs/fig4_trainHeat.png>] [9 <./figs/fig5_nsSpacesTrain.png>] [10 <./figs
+/fig6_blockTestBrains.png>] [11 <./figs/fig7_testMeanHeat.png> <./figs/fig8_blo
+ckWiseHeat.png>] [12 <./figs/fig9_nsSpacesTestMs.png>]
+<./figs/fig10_secretBrains.png, id=341, 495.0495pt x 400.6167pt>
 File: ./figs/fig10_secretBrains.png Graphic file (type png)
 
 <use ./figs/fig10_secretBrains.png>
-Package pdftex.def Info: ./figs/fig10_secretBrains.png used on input line 402.
+Package pdftex.def Info: ./figs/fig10_secretBrains.png used on input line 401.
 (pdftex.def)             Requested size: 500.484pt x 405.0231pt.
 
-Underfull \hbox (badness 10000) in alignment at lines 425--425
+Underfull \hbox (badness 10000) in alignment at lines 424--424
 [][] 
  []
 
 
-Package natbib Warning: Citation `Woermann_200' on page 13 undefined on input l
-ine 438.
-
-
-Overfull \hbox (1.08267pt too wide) in paragraph at lines 433--445
+Overfull \hbox (1.08267pt too wide) in paragraph at lines 432--444
 \T1/phv/m/n/10 (-20) We showed that de-cod-ing ^^Plarge re-gions of the mind^^Q
  ([][]Broca[][],
  []
 
-File: images/hoffmann_vs.png Graphic file (type png)
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 445.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [13]
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 445.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [14 <./figs/fig10_secretBrains.png>]
+[14 <./figs/fig10_secretBrains.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: images/hoffmann_vs.png Graphic file (type png)
-
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 445.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
  [15]
-Underfull \hbox (badness 10000) in paragraph at lines 459--464
-
- []
-
 (./ms_thoughtExperiment.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 7.
-File: images/hoffmann_vs.png Graphic file (type png)
- <use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 97.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [16])
-
+ [16]) 
 AED: lastpage setting LastPage
-File: images/hoffmann_vs.png Graphic file (type png)
-<use images/hoffmann_vs.png>
-Package pdftex.def Info: images/hoffmann_vs.png used on input line 479.
-(pdftex.def)             Requested size: 50.18768pt x 17.36574pt.
- [17]
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
-(./ms_thoughtExperiment.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 477.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 477.
+ (./ms_thoughtExperiment.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 477.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 477.
 Package rerunfilecheck Info: File `ms_thoughtExperiment.out' has not changed.
 (rerunfilecheck)             Checksum: 2AABAE3EBA23BE394434CCB700EA66F2;721.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 479.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 477.
  ) 
 Here is how much of TeX's memory you used:
- 12681 strings out of 493105
- 187262 string characters out of 6137073
- 457048 words of memory out of 5000000
- 15538 multiletter control sequences out of 15000+600000
+ 12668 strings out of 493105
+ 186979 string characters out of 6137073
+ 450179 words of memory out of 5000000
+ 15528 multiletter control sequences out of 15000+600000
  88060 words of font info for 297 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,13n,45p,2556b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,11n,45p,2554b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ms_thoughtExperiment.pdf (17 pages, 13081546 bytes).
+Output written on ms_thoughtExperiment.pdf (17 pages, 11542307 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
+ 487 PDF objects out of 1000 (max. 8388607)
+ 408 compressed objects within 5 object streams
  91 named destinations out of 1000 (max. 500000)
- 49821 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 49811 words of extra memory for PDF output out of 51595 (max. 10000000)
 
