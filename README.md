@@ -1,4 +1,6 @@
-# Thought experiment: decoding cognitive processes from the fMRI data of one individual
+# Thought experiment: decoding cognitive processes from the fMRI data of one individual  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1323666.svg)](https://doi.org/10.5281/zenodo.1323666)  
 
 Martin Wegrzyn, Joana Aust, Larissa Barnstorf, Magdalena Gippert, Mareike Harms, Antonia Hautum, Shanna Heidel, Friederike Herold, Sarah M. Hommel, Anna-Katharina Knigge, Dominik Neu, Diana Peters, Marius Schaefer, Julia Schneider, Ria Vormbrock, Sabrina M. Zimmer, Friedrich G. Woermann & Kirsten Labudda
 
