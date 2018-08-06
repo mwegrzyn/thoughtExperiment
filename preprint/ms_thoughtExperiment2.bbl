@@ -1,0 +1,304 @@
+\begin{thebibliography}{}
+
+\bibitem[Abraham et~al., 2014]{Abraham_2014}
+Abraham, A., Pedregosa, F., Eickenberg, M., Gervais, P., Mueller, A., Kossaifi,
+  J., Gramfort, A., Thirion, B., and Varoquaux, G. (2014).
+\newblock Machine learning for neuroimaging with scikit-learn.
+\newblock {\em Frontiers in Neuroinformatics}, 8.
+
+\bibitem[Aflalo et~al., 2015]{Aflalo_2015}
+Aflalo, T., Kellis, S., Klaes, C., Lee, B., Shi, Y., Pejsa, K., Shanfield, K.,
+  Hayes-Jackson, S., Aisen, M., Heck, C., Liu, C., and Andersen, R.~A. (2015).
+\newblock Decoding motor imagery from the posterior parietal cortex of a
+  tetraplegic human.
+\newblock {\em Science}, 348(6237):906--910.
+
+\bibitem[Ashburner and Friston, 2005]{Ashburner_2005}
+Ashburner, J. and Friston, K.~J. (2005).
+\newblock Unified segmentation.
+\newblock {\em {NeuroImage}}, 26(3):839--851.
+
+\bibitem[Boly et~al., 2007]{Boly_2007}
+Boly, M., Coleman, M., Davis, M., Hampshire, A., Bor, D., Moonen, G., Maquet,
+  P., Pickard, J., Laureys, S., and Owen, A. (2007).
+\newblock When thoughts become action: An {fMRI} paradigm to study volitional
+  brain activity in non-communicative brain injured patients.
+\newblock {\em {NeuroImage}}, 36(3):979--992.
+
+\bibitem[Broca, 1861]{Broca_1861}
+Broca, P. (1861).
+\newblock Remarks on the seat of the faculty of articulated language, following
+  an observation of aphemia (loss of speech); translation by christopher d.
+  green.
+\newblock In {\em Bulletin de la Société Anatomique, 6, 330-357}. Christopher
+  D. Green.
+
+\bibitem[Bunzl et~al., 2010]{Bunzl_2010}
+Bunzl, M., Hanson, S.~J., and Poldrack, R.~A. (2010).
+\newblock An exchange about localism.
+\newblock In {\em Foundational Issues in Human Brain Mapping}, pages 49--54.
+  The {MIT} Press.
+
+\bibitem[Cacioppo et~al., 2007]{Cacioppo_2007}
+Cacioppo, J.~T., Tassinary, L.~G., and Berntson, G., editors (2007).
+\newblock {\em Handbook of Psychophysiology}.
+\newblock Cambridge University Press.
+
+\bibitem[Castelvecchi, 2016]{Castelvecchi_2016}
+Castelvecchi, D. (2016).
+\newblock Can we open the black box of {AI}?
+\newblock {\em Nature}, 538(7623):20--23.
+
+\bibitem[Dechent et~al., 2004]{Dechent_2004}
+Dechent, P., Merboldt, K.-D., and Frahm, J. (2004).
+\newblock Is the human primary motor cortex involved in motor imagery?
+\newblock {\em Cognitive Brain Research}, 19(2):138--144.
+
+\bibitem[Donoho, 2017]{Donoho_2017}
+Donoho, D. (2017).
+\newblock 50 years of data science.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  26(4):745--766.
+
+\bibitem[Dubois and Adolphs, 2016]{Dubois_2016}
+Dubois, J. and Adolphs, R. (2016).
+\newblock Building a science of individual differences from {fMRI}.
+\newblock {\em Trends in Cognitive Sciences}, 20(6):425--443.
+
+\bibitem[Esteva et~al., 2017]{Esteva_2017}
+Esteva, A., Kuprel, B., Novoa, R.~A., Ko, J., Swetter, S.~M., Blau, H.~M., and
+  Thrun, S. (2017).
+\newblock Dermatologist-level classification of skin cancer with deep neural
+  networks.
+\newblock {\em Nature}, 542(7639):115--118.
+
+\bibitem[Fontaine et~al., 2002]{Fontaine_2002}
+Fontaine, D., Capelle, L., and Duffau, H. (2002).
+\newblock Somatotopy of the supplementary motor area: Evidence from correlation
+  of the extent of surgical resection with the clinical patterns of deficit.
+\newblock {\em Neurosurgery}, 50(2):297--305.
+
+\bibitem[Fox et~al., 2005]{Fox_2005}
+Fox, M.~D., Snyder, A.~Z., Vincent, J.~L., Corbetta, M., Essen, D. C.~V., and
+  Raichle, M.~E. (2005).
+\newblock The human brain is intrinsically organized into dynamic,
+  anticorrelated functional networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  102(27):9673--9678.
+
+\bibitem[Gobbini and Haxby, 2007]{Gobbini_2007}
+Gobbini, M.~I. and Haxby, J.~V. (2007).
+\newblock Neural systems for recognition of familiar faces.
+\newblock {\em Neuropsychologia}, 45(1):32--41.
+
+\bibitem[Gordon et~al., 2017]{Gordon_2017}
+Gordon, E.~M., Laumann, T.~O., Gilmore, A.~W., Newbold, D.~J., Greene, D.~J.,
+  Berg, J.~J., Ortega, M., Hoyt-Drazen, C., Gratton, C., Sun, H., Hampton,
+  J.~M., Coalson, R.~S., Nguyen, A.~L., McDermott, K.~B., Shimony, J.~S.,
+  Snyder, A.~Z., Schlaggar, B.~L., Petersen, S.~E., Nelson, S.~M., and
+  Dosenbach, N.~U. (2017).
+\newblock Precision functional mapping of individual human brains.
+\newblock {\em Neuron}, 95(4):791--807.e7.
+
+\bibitem[Gorgolewski et~al., 2013]{Gorgolewski_2013}
+Gorgolewski, K.~J., Storkey, A.~J., Bastin, M.~E., Whittle, I., and Pernet, C.
+  (2013).
+\newblock Single subject {fMRI} test{\textendash}retest reliability metrics and
+  confounding factors.
+\newblock {\em {NeuroImage}}, 69:231--243.
+
+\bibitem[H{\aa}berg et~al., 2004]{Haberg_2004}
+H{\aa}berg, A., Kvistad, K.~A., Unsg{\aa}rd, G., and Haraldseth, O. (2004).
+\newblock Preoperative blood oxygen level-dependent functional magnetic
+  resonance imaging in patients with primary brain tumors: Clinical application
+  and outcome.
+\newblock {\em Neurosurgery}, 54(4):902--915.
+
+\bibitem[Haxby, 2001]{Haxby_2001}
+Haxby, J.~V. (2001).
+\newblock Distributed and overlapping representations of faces and objects in
+  ventral temporal cortex.
+\newblock {\em Science}, 293(5539):2425--2430.
+
+\bibitem[Haxby et~al., 2011]{Haxby_2011}
+Haxby, J.~V., Guntupalli, J.~S., Connolly, A.~C., Halchenko, Y.~O., Conroy,
+  B.~R., Gobbini, M.~I., Hanke, M., and Ramadge, P.~J. (2011).
+\newblock A common, high-dimensional model of the representational space in
+  human ventral temporal cortex.
+\newblock {\em Neuron}, 72(2):404--416.
+
+\bibitem[Haxby et~al., 2000]{Haxby_2000}
+Haxby, J.~V., Hoffman, E.~A., and Gobbini, M. (2000).
+\newblock The distributed human neural system for face perception.
+\newblock {\em Trends in Cognitive Sciences}, 4(6):223--233.
+
+\bibitem[Haynes and Rees, 2006]{Haynes_2006}
+Haynes, J.-D. and Rees, G. (2006).
+\newblock Decoding mental states from brain activity in humans.
+\newblock {\em Nature Reviews Neuroscience}, 7(7):523--534.
+
+\bibitem[Hilborn and Mangel, 1997]{Hilborn_1997}
+Hilborn, R. and Mangel, M. (1997).
+\newblock The ecological detective. confronting models with data.
+\newblock volume~77. Princeton University Press.
+
+\bibitem[Huth et~al., 2016]{Huth_2016}
+Huth, A.~G., de~Heer, W.~A., Griffiths, T.~L., Theunissen, F.~E., and Gallant,
+  J.~L. (2016).
+\newblock Natural speech reveals the semantic maps that tile human cerebral
+  cortex.
+\newblock {\em Nature}, 532(7600):453--458.
+
+\bibitem[Jokeit et~al., 2001]{Jokeit_2001}
+Jokeit, H., Okujava, M., and Woermann, F.~G. (2001).
+\newblock Memory {fMRI} lateralizes temporal lobe epilepsy.
+\newblock {\em Neurology}, 57(10):1786--1793.
+
+\bibitem[Kanwisher, 2017]{Kanwisher_2017}
+Kanwisher, N. (2017).
+\newblock The quest for the {FFA} and where it led.
+\newblock {\em The Journal of Neuroscience}, 37(5):1056--1061.
+
+\bibitem[Kriegeskorte et~al., 2008]{Kriegeskorte_2008}
+Kriegeskorte, N., Mur, M., Ruff, D.~A., Kiani, R., Bodurka, J., Esteky, H.,
+  Tanaka, K., and Bandettini, P.~A. (2008).
+\newblock Matching categorical object representations in inferior temporal
+  cortex of man and monkey.
+\newblock {\em Neuron}, 60(6):1126--1141.
+
+\bibitem[Laumann et~al., 2015]{Laumann_2015}
+Laumann, T.~O., Gordon, E.~M., Adeyemo, B., Snyder, A.~Z., Joo, S.~J., Chen,
+  M.-Y., Gilmore, A.~W., McDermott, K.~B., Nelson, S.~M., Dosenbach, N.~U.,
+  Schlaggar, B.~L., Mumford, J.~A., Poldrack, R.~A., and Petersen, S.~E.
+  (2015).
+\newblock Functional system and areal organization of a highly sampled
+  individual human brain.
+\newblock {\em Neuron}, 87(3):657--670.
+
+\bibitem[Liberman, 2015]{Liberman_2015}
+Liberman, M. (2015).
+\newblock Reproducible research and the common task method. technical report.
+\newblock Simons Foundation Frontiers of Data Science Lecture.
+
+\bibitem[McGonigle, 2012]{McGonigle_2012}
+McGonigle, D.~J. (2012).
+\newblock Test{\textendash}retest reliability in {fMRI}: Or how i learned to
+  stop worrying and love the variability.
+\newblock {\em {NeuroImage}}, 62(2):1116--1120.
+
+\bibitem[Mummery et~al., 1998]{Mummery_1998}
+Mummery, C.~J., Patterson, K., Hodges, J.~R., and Price, C.~J. (1998).
+\newblock Functional neuroanatomy of the semantic system: Divisible by what?
+\newblock {\em Journal of Cognitive Neuroscience}, 10(6):766--777.
+
+\bibitem[Nair, 1967]{Nair_1967}
+Nair, C.~R. (1967).
+\newblock Sequences balanced for pairs of residual effects.
+\newblock {\em Journal of the American Statistical Association},
+  62(317):205--225.
+
+\bibitem[Naselaris et~al., 2011]{Naselaris_2011}
+Naselaris, T., Kay, K.~N., Nishimoto, S., and Gallant, J.~L. (2011).
+\newblock Encoding and decoding in {fMRI}.
+\newblock {\em {NeuroImage}}, 56(2):400--410.
+
+\bibitem[O'Craven and Kanwisher, 2000]{O_Craven_2000}
+O'Craven and Kanwisher, N. (2000).
+\newblock Mental imagery of faces and places activates corresponding
+  stimulus-specific brain regions.
+\newblock {\em Journal of Cognitive Neuroscience}, 12(6):1013--1023.
+
+\bibitem[Owen et~al., 2006]{Owen_2006}
+Owen, A.~M., Coleman, M.~R., Boly, M., Davis, M.~H., Laureys, S., and Pickard,
+  J.~D. (2006).
+\newblock Detecting awareness in the vegetative state.
+\newblock {\em Science}, 313(5792):1402--1402.
+
+\bibitem[Parvizi et~al., 2012]{Parvizi_2012}
+Parvizi, J., Jacques, C., Foster, B.~L., Withoft, N., Rangarajan, V., Weiner,
+  K.~S., and Grill-Spector, K. (2012).
+\newblock Electrical stimulation of human fusiform face-selective regions
+  distorts face perception.
+\newblock {\em Journal of Neuroscience}, 32(43):14915--14920.
+
+\bibitem[Pedregosa et~al., 2011]{Pedregosa_2011}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., et~al. (2011).
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em Journal of machine learning research}, 12(Oct):2825--2830.
+
+\bibitem[Poldrack, 2006]{Poldrack_2006}
+Poldrack, R. (2006).
+\newblock Can cognitive processes be inferred from neuroimaging data?
+\newblock {\em Trends in Cognitive Sciences}, 10(2):59--63.
+
+\bibitem[Poldrack, 2017]{Poldrack_2017}
+Poldrack, R.~A. (2017).
+\newblock Precision neuroscience: Dense sampling of individual brains.
+\newblock {\em Neuron}, 95(4):727--729.
+
+\bibitem[Price, 2011]{Price_2011}
+Price, C. (2011).
+\newblock A generative model of speech production in broca's and wernicke's
+  areas.
+\newblock {\em Frontiers in Psychology}, 2.
+
+\bibitem[Rubin et~al., 2017]{Rubin_2017}
+Rubin, T.~N., Koyejo, O., Gorgolewski, K.~J., Jones, M.~N., Poldrack, R.~A.,
+  and Yarkoni, T. (2017).
+\newblock Decoding brain activity using a large-scale probabilistic
+  functional-anatomical atlas of human cognition.
+\newblock {\em {PLOS} Computational Biology}, 13(10):e1005649.
+
+\bibitem[Satterthwaite and Davatzikos, 2015]{Satterthwaite_2015}
+Satterthwaite, T.~D. and Davatzikos, C. (2015).
+\newblock Towards an individualized delineation of functional neuroanatomy.
+\newblock {\em Neuron}, 87(3):471--473.
+
+\bibitem[Sorger et~al., 2012]{Sorger_2012}
+Sorger, B., Reithler, J., Dahmen, B., and Goebel, R. (2012).
+\newblock A real-time {fMRI}-based spelling device immediately enabling robust
+  motor-independent communication.
+\newblock {\em Current Biology}, 22(14):1333--1338.
+
+\bibitem[Stippich, 2015]{Stippich_2015}
+Stippich, C. (2015).
+\newblock Introduction to presurgical functional {MRI}.
+\newblock In {\em Clinical Functional {MRI}}, pages 1--7. Springer Berlin
+  Heidelberg.
+
+\bibitem[Szaflarski et~al., 2017]{Szaflarski_2017}
+Szaflarski, J.~P., Gloss, D., Binder, J.~R., Gaillard, W.~D., Golby, A.~J.,
+  Holland, S.~K., Ojemann, J., Spencer, D.~C., Swanson, S.~J., French, J.~A.,
+  and Theodore, W.~H. (2017).
+\newblock Practice guideline summary: Use of {fMRI} in the presurgical
+  evaluation of patients with epilepsy.
+\newblock {\em Neurology}, 88(4):395--402.
+
+\bibitem[Tremblay and Dick, 2016]{Tremblay_2016}
+Tremblay, P. and Dick, A.~S. (2016).
+\newblock Broca and wernicke are dead, or moving past the classic model of
+  language neurobiology.
+\newblock {\em Brain and Language}, 162:60--71.
+
+\bibitem[{Van Dijk} et~al., 2012]{Van_Dijk_2012}
+{Van Dijk}, K.~R., Sabuncu, M.~R., and Buckner, R.~L. (2012).
+\newblock The influence of head motion on intrinsic functional connectivity
+  {MRI}.
+\newblock {\em {NeuroImage}}, 59(1):431--438.
+
+\bibitem[Woermann et~al., 2003]{Woermann_2003}
+Woermann, F.~G., Jokeit, H., Luerding, R., Freitag, H., Schulz, R., Guertler,
+  S., Okujava, M., Wolf, P., Tuxhorn, I., and Ebner, A. (2003).
+\newblock Language lateralization by wada test and {fMRI} in 100 patients with
+  epilepsy.
+\newblock {\em Neurology}, 61(5):699--701.
+
+\bibitem[Yarkoni et~al., 2011]{Yarkoni_2011}
+Yarkoni, T., Poldrack, R.~A., Nichols, T.~E., Essen, D. C.~V., and Wager, T.~D.
+  (2011).
+\newblock Large-scale automated synthesis of human functional neuroimaging
+  data.
+\newblock {\em Nature Methods}, 8(8):665--670.
+
+\end{thebibliography}

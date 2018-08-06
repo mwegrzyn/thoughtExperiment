@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ms_thoughtExperiment2.aux
+The style file: apalike.bst
+Database file #1: myCitations.bib
+Warning--empty booktitle in Hilborn_1997
+Warning--can't use both volume and number fields in Hilborn_1997
+Warning--empty booktitle in Liberman_2015
+You've used 49 entries,
+            1935 wiz_defined-function locations,
+            824 strings with 14175 characters,
+and the built_in function-call counts, 23399 in all, are:
+= -- 2234
+> -- 1261
+< -- 23
++ -- 468
+- -- 450
+* -- 2230
+:= -- 4082
+add.period$ -- 151
+call.type$ -- 49
+change.case$ -- 468
+chr.to.int$ -- 49
+cite$ -- 52
+duplicate$ -- 716
+empty$ -- 1484
+format.name$ -- 515
+if$ -- 4435
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 49
+newline$ -- 248
+num.names$ -- 148
+pop$ -- 384
+preamble$ -- 1
+purify$ -- 469
+quote$ -- 0
+skip$ -- 522
+stack$ -- 0
+substring$ -- 1727
+swap$ -- 61
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 292
+warning$ -- 3
+while$ -- 185
+width$ -- 0
+write$ -- 639
+(There were 3 warnings)
