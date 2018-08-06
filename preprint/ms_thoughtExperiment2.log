@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.4)  6 AUG 2018 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.4)  6 AUG 2018 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1169,7 +1169,7 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ms_thoughtExperiment2.pdf (17 pages, 7590621 bytes).
+Output written on ms_thoughtExperiment2.pdf (17 pages, 7590620 bytes).
 PDF statistics:
  492 PDF objects out of 1000 (max. 8388607)
  417 compressed objects within 5 object streams
