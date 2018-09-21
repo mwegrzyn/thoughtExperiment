@@ -1,8 +1,9 @@
 # Thought experiment: decoding cognitive processes from the fMRI data of one individual  
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1338119.svg)](https://doi.org/10.5281/zenodo.1338119)  
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1338119.svg)](https://doi.org/10.5281/zenodo.1338119) 
+[![DATA](https://img.shields.io/badge/DATA-10.18112%2Fopenneuro.ds001419.v1.0.1-green.svg)](https://doi.org/10.18112/openneuro.ds001419.v1.0.1) 
+[![PREPRINT](https://img.shields.io/badge/biorxiv-10.1101%2F341594%20-red.svg)](https://doi.org/10.1101/341594)  [![PUB](https://img.shields.io/badge/PUB-10.1371%2Fjournal.pone.0204338-yellow.svg)](https://doi.org/10.1371/journal.pone.0204338)  
 
 Martin Wegrzyn, Joana Aust, Larissa Barnstorf, Magdalena Gippert, Mareike Harms, Antonia Hautum, Shanna Heidel, Friederike Herold, Sarah M. Hommel, Anna-Katharina Knigge, Dominik Neu, Diana Peters, Marius Schaefer, Julia Schneider, Ria Vormbrock, Sabrina M. Zimmer, Friedrich G. Woermann & Kirsten Labudda
 
